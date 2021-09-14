@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerTeam1
+  - PlayerTeam2
+  - Observer
+  - ShotPool
+  - Shot
+  - Floor
+  - Ball
+  - But
+  - TextScoreT1
+  - TextScoreT2
+  - Assignation
+  - LeadPad
+  - Laser
+  - Barriere
+  - BoutonAssignationJ4
+  - BoutonAssignationJ1
+  - BoutonAssignationJ2
+  - BoutonAssignationJ3
+  - PanelAssign
+  - Music
+  - PanelStart
+  - SFXOption
+  - MusicOption
+  - SoundManager
+  - MusicSlider
+  - SFXSlider
+  - SoundTest
+  - MenuPadController
+  - BonusDomage
+  - EmplacementBonus1
+  - EmplacementBonus2
+  - EmplacementBonus3
+  - EmplacementBonus4
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Game
+  - Team1
+  - Team2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
